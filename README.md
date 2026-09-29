@@ -1,2 +1,8 @@
-# swe325_525-github-ai-practice
-Documentation of GitHub Issues, branches, commits, pull requests, and responsible AI assistance.
+# GitHub and AI Workflow Practice
+
+This repository documents my practice using GitHub Issues, branches, meaningful commits, pull requests, reviews, and responsible AI assistance.
+
+Student: Ibrahim  
+GitHub username: @Ibrahimatatri
+
+This assignment is limited to GitHub workflow documentation and AI-use documentation. It does not contain a software project, credentials, private keys, or confidential information.
