@@ -43,9 +43,9 @@ The `main` branch represents the completed version of the assignment. It will co
 
 ## Meaningful commits
 
-1. [Clarify repository purpose](https://github.com/Ibrahimatatri/swe325_525-github-ai-practice/commit/24a2639) — Expanded the README with the assignment purpose, learning objectives, repository contents, workflow, and privacy scope.
-2. `Document branch and pull request workflow` — Link will be added after the commit is created.
-3. `Add AI-use record` — Link will be added after the commit is created.
+1. [Clarify repository purpose](https://github.com/Ibrahimatatri/swe325_525-github-ai-practice/commit/24a2639d7f4c28fd1c1f7999890a685249f3e159) — Expanded the README with the assignment purpose, learning objectives, repository contents, workflow, and privacy scope.
+2. [Document branch and pull request workflow](https://github.com/Ibrahimatatri/swe325_525-github-ai-practice/commit/26ced1a75c4a8d4c61d250f1c0e65519a510c7d6) — Explained the relationships among the Issue, branch, commits, pull request, review, merge, and default branch.
+3. [Add AI-use record](https://github.com/Ibrahimatatri/swe325_525-github-ai-practice/commit/2ee333b779e2bd3c50dbaf0b34d3f765b2bd607e) — Documented three AI interactions, decisions about the suggestions, and the required reflection.
 
 ## Pull request and merge evidence
 
