@@ -49,7 +49,6 @@ The `main` branch represents the completed version of the assignment. It will co
 
 ## Pull request and merge evidence
 
-- Pull request URL: Pending
-- Merge or history URL: Pending
-
+- Pull request URL: [Pull Request #2](https://github.com/Ibrahimatatri/swe325_525-github-ai-practice/pull/2)
+- Merge or history URL: [Main branch commit history](https://github.com/Ibrahimatatri/swe325_525-github-ai-practice/commits/main/)
 These links will be added after the pull request is opened and merged.
